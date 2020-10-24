@@ -2,7 +2,7 @@
 ## Title: Sample LDB addon
 ## Notes: Sample LDB addon for learning purposes.
 ## Version: v1
-## Author: envy
+## Author: DarthKsane
 ## OptionalDeps: Ace3, LibDataBroker-1.1
 ## DefaultState: enabled
 
