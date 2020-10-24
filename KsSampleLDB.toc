@@ -10,7 +10,7 @@
 embeds.xml
 #@end-no-lib-strip@
 
-hardembeds\LibDataBroker-1.1\LibDataBroker-1.1.lua
+# hardembeds\LibDataBroker-1.1\LibDataBroker-1.1.lua
 
 locales\enUS.lua
 locales\ruRU.lua
